@@ -1,17 +1,17 @@
 This is a website developed for Techfluence 2025.
 <br/>
 
-Development Team 
+<b>Development Team</b> 
 <br/>
-Amithkumar P Radhakrishnan
+- Amithkumar P Radhakrishnan
 <br/>
-Nagesh Merva
+- Nagesh Merva
 <br/>
-Aryan Naik
+- Aryan Naik
 <br/>
 
-Design Team
+<b>Design Team</b> 
 <br/>
-Meher Aga
+- Meher Aga
 <br/>
-Nishka Naik
+- Nishka Naik
